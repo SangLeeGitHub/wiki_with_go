@@ -18,6 +18,6 @@
 
 #### 4. Test the backend app
 In CLI, if you have curl or wget command on your system,  
-o curl http://localhost:9090/articles/  
+○ curl http://localhost:9090/articles/  
 ○ curl http://localhost:9090/articles/rest_api  
 ○ curl -X PUT http://localhost:9090/articles/wiki -d 'A wiki is a knowledge base website'  
