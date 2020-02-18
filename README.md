@@ -13,7 +13,7 @@
 #### 2. Build a executable binary file
 `go build`
 
-#### 3. Running executable as background.
+#### 3. Running the executable as background.
 `./wiki_with_go &`
 
 #### 4. Test the backend app
